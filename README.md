@@ -13,7 +13,7 @@ well this might be why, due to discord getting rid of [hotlinking](https://simpl
  " what do i do ? " simple!
 use [catbox.moe](https://catbox.moe/) instead of discord for hotlinking,
 
-you could also use [postimages.org](https://postimages.org/) instead!
+you could also use [postimages.org](https://postimages.org/) or [imgur.com](https://imgur.com/) instead!
 
  I hope this helped ^_^ 
 
