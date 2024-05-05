@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  
+<img src="https://files.catbox.moe/26su6v.png"/>
 
-<!--
-**yaoinator/yaoinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+ever wondered why your rentry images arent working ?   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+well this might be why, due to discord getting rid of [hotlinking](https://simple.wikipedia.org/wiki/Hotlinking)
+
+ " what do i do ? " simple!
+use [catbox.moe](https://catbox.moe/) instead of discord for hotlinking,
+
+you could also use [postimages.org](https://postimages.org/) instead!
+
+ I hope this helped ^_^ 
+
+please stop using discord links guys...!!
+</div>
