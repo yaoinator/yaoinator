@@ -13,7 +13,9 @@ well this might be why, due to discord getting rid of [hotlinking](https://simpl
  " what do i do ? " simple!
 use [catbox.moe](https://catbox.moe/) instead of discord for hotlinking,
 <br>
-you could also use [postimages.org](https://postimages.org/) or [imgur.com](https://imgur.com/) instead!
+; ps catbox.moe might be slow so..
+<br>
+you could also use [postimages.org](https://postimages.org/) or [imgur.com](https://imgur.com/) & [filegarden.com](https://filegarden.com/) instead!
 
  I hope this helped ^_^ 
 <br>
