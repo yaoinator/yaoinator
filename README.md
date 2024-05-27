@@ -21,5 +21,5 @@ you could also use [postimages.org](https://postimages.org/) or [imgur.com](http
 <br>
 please stop using discord links guys...!!
 <br>
-[cbox](https://my.cbox.ws/akito) & [gb](https://shinonome.123guestbook.com/)
+[sayout](satosuguu.sayout.net) & [gb](https://shinonome.123guestbook.com/)
 </div>
