@@ -7,9 +7,9 @@
 <div align="center">
   
 ever wondered why your rentry images arent working ?   
-
+</br>
 well this might be why, due to discord getting rid of [hotlinking](https://simple.wikipedia.org/wiki/Hotlinking)
-
+</br>
  " what do i do ? " simple!
 use [catbox.moe](https://catbox.moe/) instead of discord for hotlinking,
 <br>
