@@ -21,5 +21,6 @@ you could also use [postimages.org](https://postimages.org/) or [imgur.com](http
 <br>
 please stop using discord links guys...!!
 <br>
-[sayout](satosuguu.sayout.net) & [gb](https://shinonome.123guestbook.com/)
+[sayout](https://satosuguu.sayout.net) & [gb](https://shinonome.123guestbook.com/)
+
 </div>
